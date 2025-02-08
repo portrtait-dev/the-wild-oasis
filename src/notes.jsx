@@ -5,3 +5,4 @@
 // 💡327. Application Planning
 // 💡328. Setting Up the Project: "The Wild Oasis"
 // 💡329. Introduction to Styled Components
+// 💡330. Global Styles With Styled Components
