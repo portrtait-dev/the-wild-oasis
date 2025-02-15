@@ -22,3 +22,4 @@
 
 // 💡 336. Section Overview
 // 💡 337. What is Supabase?
+// 💡 338. Creating a New Database
