@@ -16,3 +16,8 @@
 // 💡333. Setting Up Pages and Routes
 // 💡334. Building the App Layout
 // 💡335. Building the Sidebar and Main Navigation
+
+// Section 26: Supabase Crash Course: Building a Back-End!
+// --------------------------------------------------
+
+// 💡 336. Section Overview
