@@ -27,3 +27,4 @@
 // 💡 340. Creating Tables
 // 💡 341. Relationships Between Tables
 // 💡 342. Adding Security Policies (RLS)
+// 💡 343. Connecting Supabase With Our React Ap
