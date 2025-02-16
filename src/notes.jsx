@@ -24,3 +24,4 @@
 // 💡 337. What is Supabase?
 // 💡 338. Creating a New Database
 // 💡 339. Modeling Application State
+// 💡 340. Creating Tables
