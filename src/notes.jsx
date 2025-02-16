@@ -26,3 +26,4 @@
 // 💡 339. Modeling Application State
 // 💡 340. Creating Tables
 // 💡 341. Relationships Between Tables
+// 💡 342. Adding Security Policies (RLS)
