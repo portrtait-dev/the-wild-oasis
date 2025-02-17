@@ -35,3 +35,4 @@
 
 // 💡 345. Section Overview
 // 💡 346. What is React Query?
+// 💡 347. Setting Up React Query
