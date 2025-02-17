@@ -39,3 +39,4 @@
 // 💡 348. Make Sure to Use React Query v4!
 
 // 💡 349. Fetching Cabin Data
+// 💡 350. Mutations: Deleting a Cabin
