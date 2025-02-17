@@ -29,3 +29,8 @@
 // 💡 342. Adding Security Policies (RLS)
 // 💡 343. Connecting Supabase With Our React Ap
 // 💡 344. Setting Up Storage Buckets
+
+// Section 27: React Query: Managing Remote State
+// --------------------------------------------------
+
+// 💡 345. Section Overview
