@@ -42,3 +42,4 @@
 // 💡 350. Mutations: Deleting a Cabin
 // 💡 351. Displaying Toasts (Notifications)
 // 💡 352. Introducing Another Library: React Hook Form
+// 💡 353. Creating a New Cabin
