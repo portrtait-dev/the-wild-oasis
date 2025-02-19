@@ -44,3 +44,4 @@
 // 💡 352. Introducing Another Library: React Hook Form
 // 💡 353. Creating a New Cabin
 // 💡 354. Handling Form Errors
+// 💡 355. Uploading Images to Supabase
