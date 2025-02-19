@@ -33,11 +33,13 @@
 // Section 27: React Query: Managing Remote State
 // --------------------------------------------------
 
+// 1/3. Set up React Query: 345-348
 // 💡 345. Section Overview
 // 💡 346. What is React Query?
 // 💡 347. Setting Up React Query
 // 💡 348. Make Sure to Use React Query v4!
 
+// 2/3. CRUD for Cabins using RQ: 349-358
 // 💡 349. Fetching Cabin Data
 // 💡 350. Mutations: Deleting a Cabin
 // 💡 351. Displaying Toasts (Notifications)
@@ -45,3 +47,6 @@
 // 💡 353. Creating a New Cabin
 // 💡 354. Handling Form Errors
 // 💡 355. Uploading Images to Supabase
+// 💡 356. Editing a Cabin
+
+// 3/3. Settings: 359-360
