@@ -58,6 +58,8 @@
 // Section 28: Advanced React Patterns
 // --------------------------------------------------
 
+// 1/2. Introduction to the new React patterns: 361-366
 // 💡 361. Section Overview
 // 💡 362. An Overview of Reusability in React
 // 💡 363. Setting Up an Example
+// 💡 364. The Render Props Pattern
