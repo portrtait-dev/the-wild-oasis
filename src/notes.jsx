@@ -65,3 +65,6 @@
 // 💡 364. The Render Props Pattern
 // 💡 365. A Look at Higher-Order Components (HOC)
 // 💡 366. The Compound Component Pattern
+
+// 2/2. Building modal window component: 367-xxx
+// 💡 367. Building a Modal Window Using a React Portal
