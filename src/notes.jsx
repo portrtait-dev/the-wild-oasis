@@ -69,3 +69,4 @@
 // 2/2. Building modal window component: 367-xxx
 // 💡 367. Building a Modal Window Using a React Portal
 // 💡 368. Converting the Modal to a Compound Component
+// 💡 369. Detecting a Click Outside the Modal
