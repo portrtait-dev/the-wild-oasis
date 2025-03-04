@@ -74,3 +74,4 @@
 
 // 3/3. Table + Menu: 371-373
 // 💡 371. Building a Reusable Table
+// 💡 372. Applying the Render Props Pattern
